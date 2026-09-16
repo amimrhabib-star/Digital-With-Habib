@@ -33,7 +33,7 @@ const STORY_TRACKS: StoryTrack[] = [
     id: 'brand-film',
     name: 'Brand Systems',
     category: 'Brand Architecture',
-    defaultVideo: '/videos/brand-systems.mp4',
+    defaultVideo: './videos/brand-systems.mp4',
     tagline: 'Sculpting unforgettable identities and geometric design systems.',
     aspect: '16:9'
   },
@@ -41,7 +41,7 @@ const STORY_TRACKS: StoryTrack[] = [
     id: 'digital-exp',
     name: 'Digital Experiences',
     category: 'Web & Product UI',
-    defaultVideo: '/videos/digital-exp.mp4',
+    defaultVideo: './videos/digital-exp.mp4',
     tagline: 'High-conversion eCommerce & fluid web platforms built to scale.',
     aspect: '16:9'
   },
@@ -49,7 +49,7 @@ const STORY_TRACKS: StoryTrack[] = [
     id: 'creative-sol',
     name: 'Creative Solutions',
     category: 'Campaign & Strategy',
-    defaultVideo: '/videos/creative-sol.mp4',
+    defaultVideo: './videos/creative-sol.mp4',
     tagline: 'Strategic art direction, packaging, and commercial positioning.',
     aspect: '16:9'
   },
@@ -57,7 +57,7 @@ const STORY_TRACKS: StoryTrack[] = [
     id: 'motion-3d',
     name: '3D Motion',
     category: 'Motion Design',
-    defaultVideo: '/videos/motion-3d.mp4',
+    defaultVideo: './videos/motion-3d.mp4',
     tagline: 'World-class 3D product visualizations and kinetic social reels.',
     aspect: '16:9'
   }

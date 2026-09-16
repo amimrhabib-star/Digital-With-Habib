@@ -69,7 +69,7 @@ export const ArpeggioAchievements: React.FC<ArpeggioAchievementsProps> = ({
               />
               <div className="absolute inset-0 bg-black/40 flex items-center justify-center">
                 <button
-                  onClick={() => onOpenVideoModal ? onOpenVideoModal('/videos/digital-exp.mp4', 'Boreal VR Award Reel') : onOpenProject(featuredBoreal)}
+                  onClick={() => onOpenVideoModal ? onOpenVideoModal('./videos/digital-exp.mp4', 'Boreal VR Award Reel') : onOpenProject(featuredBoreal)}
                   className="w-12 h-12 rounded-full bg-white/90 text-black flex items-center justify-center hover:scale-110 transition-transform shadow-xl"
                   aria-label="Play Award Showcase Reel"
                 >

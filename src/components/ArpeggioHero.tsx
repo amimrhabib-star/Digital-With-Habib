@@ -25,7 +25,7 @@ export const ArpeggioHero: React.FC<ArpeggioHeroProps> = ({
   const [videoProgress, setVideoProgress] = useState(0);
   const [activeProjectIndex, setActiveProjectIndex] = useState(0);
 
-  const videoSource = settings.customHeroMotionUrl || '/videos/digital-exp.mp4';
+  const videoSource = settings.customHeroMotionUrl || './videos/digital-exp.mp4';
   const activeProject = ARPEGGIO_FLAGSHIP_PROJECTS[activeProjectIndex] || ARPEGGIO_FLAGSHIP_PROJECTS[0];
 
   useEffect(() => {

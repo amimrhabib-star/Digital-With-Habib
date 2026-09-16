@@ -463,7 +463,7 @@ export const STUDIO_PROJECTS: ProjectItem[] = [
     description: 'A 4K launch showreel featuring dynamic 3D kinetic text, explosive sound engineering, and cinematic macro visuals designed to command investor attention.',
     coverImage: 'https://images.unsplash.com/photo-1536240478700-b869070f9279?auto=format&fit=crop&w=1200&q=80',
     coverPhoto: 'https://images.unsplash.com/photo-1536240478700-b869070f9279?auto=format&fit=crop&w=1200&q=80',
-    videoUrl: '/videos/motion-3d.mp4',
+    videoUrl: './videos/motion-3d.mp4',
     images: [
       'https://images.unsplash.com/photo-1536240478700-b869070f9279?auto=format&fit=crop&w=1200&q=80',
       'https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&w=1200&q=80',
@@ -494,7 +494,7 @@ export const STUDIO_PROJECTS: ProjectItem[] = [
     description: 'Hypnotic product video commercial displaying acoustic hardware craftsmanship, active noise-cancellation visual waveforms, and tactile buttons.',
     coverImage: 'https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80',
     coverPhoto: 'https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80',
-    videoUrl: '/videos/digital-exp.mp4',
+    videoUrl: './videos/digital-exp.mp4',
     images: [
       'https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1200&q=80',
       'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1200&q=80',
@@ -636,7 +636,7 @@ export const ARPEGGIO_FLAGSHIP_PROJECTS: ProjectItem[] = [
     impactMetric: '+35% Customer Engagement',
     description: 'Next-generation spatial computing hardware interface and brand universe engineered for Nordvision’s revolutionary lightweight VR headset.',
     coverImage: 'https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=1200&q=80',
-    videoUrl: '/videos/digital-exp.mp4',
+    videoUrl: './videos/digital-exp.mp4',
     images: [
       'https://images.unsplash.com/photo-1593508512255-86ab42a8e620?auto=format&fit=crop&w=1200&q=80',
       'https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1200&q=80',
@@ -680,7 +680,7 @@ export const ARPEGGIO_FLAGSHIP_PROJECTS: ProjectItem[] = [
     impactMetric: '2.4M Active Athletes',
     description: 'High-performance athletic companion app featuring real-time biometric telemetry, adaptive pacing algorithms, and elite training community hubs.',
     coverImage: 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=80',
-    videoUrl: '/videos/brand-systems.mp4',
+    videoUrl: './videos/brand-systems.mp4',
     images: [
       'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=80',
       'https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=1200&q=80',
@@ -719,7 +719,7 @@ export const ARPEGGIO_FLAGSHIP_PROJECTS: ProjectItem[] = [
     impactMetric: '+24% Revenue Growth',
     description: 'Electric hypercar showcase platform featuring real-time 3D photorealistic vehicle configuration, aerodynamics simulation, and VIP concierge booking.',
     coverImage: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80',
-    videoUrl: '/videos/motion-3d.mp4',
+    videoUrl: './videos/motion-3d.mp4',
     images: [
       'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80',
       'https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?auto=format&fit=crop&w=1200&q=80',
@@ -827,7 +827,7 @@ export const ARPEGGIO_CLIENT_STORIES = [
     role: 'Account Director',
     company: 'Nordvision Tech Labs',
     hasVideo: true,
-    videoUrl: '/videos/digital-exp.mp4',
+    videoUrl: './videos/digital-exp.mp4',
     avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80',
     quote: 'Working with the team was a game-changer. Their attention to detail and unique design solutions helped elevate our client’s brand significantly. The speed of execution within 48-hour sprints kept our executive board thrilled.'
   },

@@ -127,7 +127,7 @@ const DEFAULT_SETTINGS: StudioCustomSettings = {
   // World-Class Brand Story Video Showcase
   brandStoryHeading: 'Behind Every Great Brand Is A Great Story.',
   brandStorySubtitle: 'Watch how we create brands, digital experiences and creative solutions.',
-  brandStoryVideoUrl: '/videos/brand-systems.mp4',
+  brandStoryVideoUrl: './videos/brand-systems.mp4',
   brandStoryVideoCover: null
 };
 

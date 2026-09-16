@@ -78,7 +78,7 @@ export const ArpeggioTestimonials: React.FC<ArpeggioTestimonialsProps> = ({
               />
               <div className="absolute inset-0 bg-black/40 flex flex-col items-center justify-center p-4">
                 <button
-                  onClick={() => onOpenVideoModal ? onOpenVideoModal('/videos/digital-exp.mp4', 'Deborah Keith — Nordvision Experience') : onBookCall()}
+                  onClick={() => onOpenVideoModal ? onOpenVideoModal('./videos/digital-exp.mp4', 'Deborah Keith — Nordvision Experience') : onBookCall()}
                   className="w-16 h-16 rounded-full bg-white text-black flex items-center justify-center hover:scale-110 transition-transform shadow-2xl group-hover:bg-zinc-200"
                   aria-label="Play Client Story Video"
                 >

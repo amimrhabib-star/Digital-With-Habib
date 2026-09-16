@@ -19,7 +19,7 @@ export const TechGlassHeroMotion: React.FC<TechGlassHeroMotionProps> = ({ onOpen
   const [reflectionPos, setReflectionPos] = useState({ x: 50, y: 50 });
 
   // Default motion video if none uploaded
-  const defaultMotionVideo = '/videos/motion-3d.mp4';
+  const defaultMotionVideo = './videos/motion-3d.mp4';
   const currentMediaUrl = settings.customHeroMotionUrl || defaultMotionVideo;
   const isVideo = currentMediaUrl.includes('.mp4') || currentMediaUrl.includes('.webm') || currentMediaUrl.startsWith('data:video');
 
