@@ -1,0 +1,42 @@
+name: digital-with-habib
+services:
+  website:
+    build: .
+    restart: unless-stopped
+    environment:
+      NODE_ENV: production
+      PORT: "3000"
+      STORAGE_DIR: /data
+      COOKIE_SECURE: "true"
+      TRUST_PROXY_HOPS: "1"
+      APP_ORIGIN: https://${DOMAIN:?Set DOMAIN in your private .env}
+      ADMIN_PASSWORD_HASH: ${ADMIN_PASSWORD_HASH:?Set ADMIN_PASSWORD_HASH in your private .env}
+    volumes:
+      - website_data:/data
+    expose:
+      - "3000"
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3000/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      start_period: 60s
+      retries: 3
+  https:
+    image: caddy:2
+    restart: unless-stopped
+    environment:
+      DOMAIN: ${DOMAIN:?Set DOMAIN in your private .env}
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - website
+volumes:
+  website_data:
+    name: digital_with_habib_data
+  caddy_data:
+  caddy_config:

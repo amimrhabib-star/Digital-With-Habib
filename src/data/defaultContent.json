@@ -1,0 +1,1480 @@
+{
+  "initialized": true,
+  "updatedAt": "2026-09-27T06:21:33.167Z",
+  "settings": {
+    "cinematicVideoBadge": "Motion Branding",
+    "motionLogoPreset": "custom",
+    "logoMotionBrandName": "DWH Studio",
+    "cinematicVideoHeading": "Watch Our Creative Process",
+    "heroSatisfactionText": "99.4% Verified Client Satisfaction",
+    "brandStorySubtitle": "Watch how we create brands, digital experiences and creative solutions.",
+    "cinematicVideoSubtitle": "Digital Experience crafted with purposeful motion, high retention, and category-defining visual polish.",
+    "heroHeadline": "We Create",
+    "brandStoryVideoUrl": "/videos/brand-systems.mp4",
+    "cinematicVideoUrl": null,
+    "heroCardBadgeText": "Full-Stack Design",
+    "cinematicVideoAutoPlay": true,
+    "phoneWhatsApp": "+880 1734 144347",
+    "heroCardVideoUrl": "/uploads/b9ad003a-2c39-4f7d-9c44-a6d0794ac9bf.mp4",
+    "logoMotionServiceTags": [
+      "Brand Architecture",
+      "Kinetic Systems",
+      "3D Visuals",
+      "Digital Experience"
+    ],
+    "logoMotionTagline": "Kinetic Identity & High-Performance Brand Architecture",
+    "heroSubtitle": "We provide Graphic & Brand Identity, UI/UX & App Design, SaaS Design, Web & App Development, Motion Graphics and All in one place\n",
+    "studioEmail": "contact@dwhstudio.com",
+    "brandStoryVideoCover": null,
+    "customHeroMotionUrl": "/uploads/customHeroMotionUrl_1789813422002_xiabu.jpg",
+    "brandStoryHeading": "Behind Every Great Brand Is A Great Story.",
+    "logoMotionCustomLogoUrl": "/brand/logo.webp",
+    "customLogoUrl": "/brand/logo.webp",
+    "heroHighlight": "Brands That People Remember.",
+    "heroLine2": "Brands That",
+    "heroLine3": "People Remember.",
+    "brandName": "Digital With Habib",
+    "primaryColor": "#0052ff",
+    "accentColor": "#00d2ff",
+    "inkColor": "#071a41",
+    "surfaceColor": "#f7f9fc",
+    "logoMotionEnabled": true,
+    "seoTitle": "Digital With Habib — Brands, websites & digital experiences",
+    "seoDescription": "Brand identity, UI/UX design, websites and motion. Digital With Habib turns ambitious ideas into memorable digital experiences.",
+    "homeSections": [
+      {
+        "id": "hero",
+        "label": "Hero & showreel",
+        "visible": true
+      },
+      {
+        "id": "clients",
+        "label": "Client logos",
+        "visible": true
+      },
+      {
+        "id": "portfolio",
+        "label": "Portfolio",
+        "visible": true
+      },
+      {
+        "id": "achievements",
+        "label": "Achievements",
+        "visible": true
+      },
+      {
+        "id": "services",
+        "label": "Services",
+        "visible": true
+      },
+      {
+        "id": "testimonials",
+        "label": "Testimonials",
+        "visible": true
+      },
+      {
+        "id": "faq",
+        "label": "FAQs",
+        "visible": true
+      }
+    ],
+    "ProcessSection image 1": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80",
+    "ProcessSection image 2": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+    "ProcessSection image 3": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=800&q=80",
+    "footerBackgroundImage": "/assets/bottom_luminous_curve.jpg",
+    "budgetOptions": [
+      "$1,000 – $2,000",
+      "$2,000 – $3,500",
+      "$3,500 – $5,000",
+      "$5,000+ (Enterprise / Retainer)"
+    ],
+    "timelineOptions": [
+      "Within 2–4 weeks",
+      "1–2 months",
+      "Urgent (under 2 weeks)",
+      "Ongoing retainer"
+    ],
+    "faviconUrl": "/favicon-32.png"
+  },
+  "teamSpecialists": [
+    {
+      "role": "UX Design / Research, Product Design, UI / Visual Design",
+      "image": "/uploads/668cb0c3-c5bc-4a2c-9992-c485def80690.png",
+      "projectsCount": 27,
+      "name": "Ariful Islam",
+      "id": "zubair",
+      "bio": "I help startups and businesses design intuitive digital products that improve user experience and conversion.\n\nSpecialized in:\n• SaaS Design\n• Dashboard Design\n• Design Systems\n• Prototyping in Figma\n\nMy process:\nResearch → UX Strategy → Wireframes → UI Design → Prototype → Developer Handoff",
+      "tags": []
+    },
+    {
+      "projectsCount": 26,
+      "name": "Junaki Begum",
+      "tags": [],
+      "image": "/uploads/870901d1-f3f4-4f58-a999-53a64fec6369.jpg",
+      "id": "tahmina",
+      "role": "UI/UX Designer ",
+      "bio": "I’m Junaki, a UI/UX Designer with 4+ years of experience focused on creating clean, intuitive, and engaging digital experiences.\n\nI combine creative design with a strong understanding of user behavior to build interfaces that are both visually appealing and easy to use. My goal is to simplify complex ideas, improve user experiences, and help businesses create digital products that connect with their audience.\n\nFrom website and mobile app interfaces to user flows and design systems, I focus on thoughtful design, clear communication, and meaningful results.\n"
+    },
+    {
+      "id": "arman",
+      "name": "Diego Brito",
+      "tags": [],
+      "bio": "I'm a Motion Designer who believes that every movement should have a purpose.\n\nMy background is in graphic design and art direction, where I spent more than 10 years learning about composition, hierarchy, branding, and visual communication. Over the last few years, I specialized in motion design, mainly creating explainer videos and product demos for SaaS companies.\n \nToday, I approach animation with a designer's eye and a storyteller's mindset. Before adding movement, I ask what the scene is trying to say and how animation can make that message clearer.\n\nWhen I'm not designing, you'll probably find me reading about philosophy, history, or the ideas that have shaped human thinking. Understanding how people think helps me create stories that connect with them.",
+      "image": "/uploads/ae85ec70-2dca-4f87-9dd1-c4bedd55fee1.png",
+      "role": "Motion Designer | 2D Animation for Tech, SaaS & Digital Products",
+      "projectsCount": 42
+    },
+    {
+      "role": "Web Developer ",
+      "image": "/uploads/26bdc2bb-1940-41ee-86ec-a8199437eaf5.png",
+      "id": "nafisa",
+      "name": "Zunayed Mia",
+      "projectsCount": 19,
+      "bio": "Hi, I’m a Web Developer focused on building modern, responsive, and high-performing websites and digital experiences.\n\nI work across front-end and back-end development, creating websites that are fast, user-friendly, scalable, and easy to manage. From business websites and landing pages to e-commerce platforms and custom web applications, I turn ideas into functional digital solutions.\n\nI also work with CMS and modern web technologies to create flexible solutions that support business growth.\n\nMy focus is simple: clean code, smooth performance, great user experience, and reliable results.\n",
+      "tags": []
+    },
+    {
+      "tags": [],
+      "bio": "I build modern, responsive, and user-friendly websites and digital experiences. I combine development and creative skills to turn ideas into simple, effective digital solutions.",
+      "projectsCount": 27,
+      "id": "samiul",
+      "name": "Samiul Hasan",
+      "image": "/uploads/4fd6837f-7a98-4ca9-b3fc-705aec5d37ad.png",
+      "role": "Web & Creative Engineer"
+    }
+  ],
+  "projects": [
+    {
+      "impactMetric": "",
+      "tag": "",
+      "year": "",
+      "id": "aethel-botanics",
+      "category": "Brand Identity",
+      "title": "Delvix — Intelligent Logistics Brand Identity",
+      "featured": true,
+      "description": "Delvix is a premium, unused brand identity concept created for modern logistics, transportation, supply chain, and technology businesses.\n\nThe identity is built around intelligent movement, seamless connection, and forward progress—creating a strong, future-ready global brand.\n\n\n---\n\nBrand Concept\n\nMovement That Connects the World\n\nDelvix represents the continuous movement of goods, information, businesses, and people.\n\nThe brand communicates:\n\nSmart Transportation · Global Connectivity · Supply Chain Intelligence · Sustainable Growth · Future Innovation\n\n\n---\n\nLogo Concept\n\nThe Delvix symbol combines intelligent flow, direction, and connection into one distinctive mark.\n\nIntelligent Flow\n\nThe dynamic forms suggest the continuous movement of goods, information, and business through a connected supply chain.\n\nHidden Direction\n\nThe negative space creates a subtle forward-moving pathway, representing navigation, clear direction, and progress.\n\nConnected Motion\n\nThe interlocking forms symbolize the connection between technology, logistics, people, products, and global networks.\n\nLogo Message\n\n“A smarter path forward.”\n\n\n---\n\nSignature Visual Pattern\n\nThe Intelligent Flow System\n\nThe flowing lines form Delvix’s signature visual language.\n\nThey represent:\n\nTransportation Routes · Digital Connectivity · Supply Chain Networks · Continuous Movement\n\nThe pattern can work independently to create brand recognition beyond the logo.\n\n\n---\n\nColor Identity\n\nDeep Teal\n\nTrust · Technology · Security · Professionalism\n\nRepresents reliable and intelligent global infrastructure.\n\nElectric Lime\n\nInnovation · Energy · Growth · Sustainability\n\nRepresents smart technology and future-focused solutions.\n\nWhite\n\nClarity · Simplicity · Transparency\n\nCreates a clean and premium visual balance.\n\n\n---\n\nTypography\n\nPrimary Typeface — Inter\n\nSelected for its modern, highly readable, digital-first, and globally professional character.\n\nHeadlines: Inter Bold / Semi Bold\n\nBody: Inter Regular\n\nInformation: Inter Medium\n\n\n---\n\nBrand Personality\n\nInnovative — Technology-driven\n\nReliable — Trusted and dependable\n\nGlobal — Designed for international markets\n\nSmart — Powered by intelligent solutions\n\nSustainable — Built for future growth\n\n\n---\n\nBrand Applications\n\nThe identity is designed for a complete business ecosystem:\n\nTransportation\n\nTrucks · Fleets · Containers · Delivery Vehicles\n\nPackaging\n\nShipping Boxes · Labels · Materials\n\nCorporate\n\nOffice Branding · Business Cards · Presentations · Documents\n\nDigital\n\nWebsite · Mobile App · Social Media · Digital Advertising\n\n\n---\n\nWhy Delvix?\n\nA strong global identity needs:\n\n✓ Memorable Logo\n\n✓ Distinctive Visual Language\n\n✓ Strong Brand Story\n\n✓ Scalable Design System\n\n✓ Digital-Ready Typography\n\n✓ Strategic Color Palette\n\n✓ Consistent Brand Experience\n\nDelvix brings these elements together in one modern, scalable identity system.\n\n\n---\n\nBrand Asset Status\n\nBrand Name: DELVIX\n\nCategory: Logistics · Supply Chain · Transportation · Technology\n\nStatus: Unused Concept / Available for Sale\n\nOwnership: Available for Transfer\n\nThe complete identity concept can be customized, developed, and transferred to a new owner.\n\n\n---\n\nDELVIX\n\nIntelligent Movement. Connected Future.\n\nA premium brand identity concept designed for the future of global logistics. make a title for this",
+      "gradient": "from-amber-900/40 via-stone-800/60 to-black",
+      "coverImage": "/uploads/8044ad1b-f504-4938-af15-50757115a5b3.jpg",
+      "images": [
+        "/uploads/fe32e0f5-3fac-427c-9dd0-488bbbfbac3d.png",
+        "/uploads/ffb26789-f2bb-43f2-89d1-45858bbf71f4.png",
+        "/uploads/34884e2d-a52b-4309-b47b-6bdfd18effe7.png",
+        "/uploads/56c34506-ecc0-4f86-8df5-e0a3b11085fe.png",
+        "/uploads/b5d3e8d6-258f-4206-9244-08fb2bda6f26.png",
+        "/uploads/c3d0edd1-2f24-42a6-9f2a-813bc9731e54.png",
+        "/uploads/56848cd1-d305-468a-99f1-f047235f3c84.png",
+        "/uploads/da64c988-5157-4880-b178-7b2d77f450e3.png"
+      ],
+      "client": "",
+      "caseStudy": {
+        "deliverables": [],
+        "challenge": "",
+        "testimonial": {
+          "role": "",
+          "quote": "",
+          "author": ""
+        },
+        "results": [],
+        "overview": "",
+        "solution": ""
+      },
+      "videoUrl": "",
+      "secondaryVideoUrl": "",
+      "coverPhoto": "/uploads/844c0a14-66fa-4765-9c0d-136a31d4ce3f.png"
+    },
+    {
+      "coverImage": "/uploads/ef312cbf-0418-4f24-be73-299f764aa577.png",
+      "featured": true,
+      "category": "Brand Identity",
+      "impactMetric": "",
+      "description": "AERIVO is a premium adventure travel and outdoor gear brand inspired by the sky, sea, and natural landscapes. The brand represents freedom, movement, exploration, and the excitement of discovering new places. It is designed for modern explorers who want to go beyond ordinary travel and experience something new.\n\nThe AERIVO logo reflects this idea through an abstract symbol inspired by wings, a parachute, and movement through water. The center forms the letter **A**, connecting the symbol to the brand name, while the overall shape suggests direction, progress, and adventure. Together, the logo and name communicate freedom, confidence, quality, and exploration.\n",
+      "caseStudy": {
+        "results": [],
+        "overview": "",
+        "solution": "",
+        "deliverables": [],
+        "challenge": ""
+      },
+      "title": "Complete Brand Identity for a Travel Brand",
+      "year": "",
+      "client": "",
+      "images": [
+        "/uploads/a4605131-1fcc-40f9-86c8-38912410e631.png",
+        "/uploads/e93e1453-1b2e-4db5-b14d-a7ff1f21eef0.jpg",
+        "/uploads/5a2d8144-4952-4c9b-b98e-d6a89558649f.jpg",
+        "/uploads/e65e7cec-20e2-4cdc-a176-d555f251b458.jpg",
+        "/uploads/a3878002-88ff-4e04-9162-0edae0d02901.png",
+        "/uploads/e8483130-5363-4a4e-8408-31bcf37e09d9.jpg",
+        "/uploads/bee861ef-d3a7-4e13-8ab5-fd5cf41db8e5.png",
+        "/uploads/1de0e3da-598c-4595-ab59-37302f64094b.jpg"
+      ],
+      "gradient": "from-emerald-950 via-slate-900 to-black",
+      "id": "delvix-logistics",
+      "tag": "",
+      "videoUrl": "",
+      "secondaryVideoUrl": "",
+      "coverPhoto": ""
+    },
+    {
+      "year": "2022",
+      "id": "lumina-architecture",
+      "coverImage": "/uploads/e3f19701-9908-4c54-a558-0a98572deb3b.png",
+      "category": "Brand Identity",
+      "caseStudy": {
+        "results": [],
+        "overview": "A Playful Identity for Growing MindsA kids’ brand identity should feel joyful, friendly, and full of curiosity. Lumilo is designed around the idea of creating a playful world where colors, shapes, and creativity come together.\n\nThe logo combines a warm and approachable symbol with a vibrant color palette, representing happiness, learning, and childhood exploration. The flexible identity system extends across packaging, stationery, digital platforms, and everyday products creating a consistent and memorable experience for children and families.\nEvery element, from the custom pattern to the visual language, reflects a balance between fun and simplicity, making Lumilo a brand that feels modern, cheerful, and ready to grow with children.\n\nA thoughtful identity built to spark little imaginations and create big memories.",
+        "solution": "",
+        "challenge": "",
+        "deliverables": []
+      },
+      "featured": false,
+      "images": [
+        "/uploads/18ce18f8-63ad-4b74-b3f1-7e303b75248a.png",
+        "/uploads/9e24e0d1-8f61-4937-a868-1d4f124bb9bb.png",
+        "/uploads/97fd2f9d-0be1-4382-820c-c38ca30d11f3.jpg",
+        "/uploads/7f935156-a0de-43de-9a49-c5f8ac9a604a.jpg",
+        "/uploads/acd93cab-8873-4224-9916-b14470cb0725.png"
+      ],
+      "gradient": "from-slate-800 via-zinc-900 to-black",
+      "client": "Lumilo ",
+      "title": "Lumilo logo symbol & brand identity for kids",
+      "tag": "",
+      "description": "",
+      "impactMetric": "",
+      "videoUrl": "",
+      "secondaryVideoUrl": "",
+      "coverPhoto": ""
+    },
+    {
+      "description": "The symbol at the beginning of the logo resembles two opposing yet connected forms, inspired by the shape of a butterfly. A butterfly represents transformation, freedom, beauty, and evolution concepts that strongly connect with fashion and personal expression. Its symmetrical structure also creates a sense of balance, harmony, and individuality.\n\nThe symbol can additionally be interpreted as two forms moving toward each other, representing connection, motion, and the continuous evolution of style. This directly supports the brand philosophy of “Move With Style.”\nThe custom MOVA wordmark uses clean geometric construction with elegant curves and sharp details. The contrast between soft and structured shapes gives the logo a balance of fashion-forward creativity and premium sophistication.\n\nThe warm terracotta/brown color direction communicates warmth, confidence, authenticity, and refined luxury, while the cream/off-white creates an elegant contrast and enhances the premium character of the identity.\n\nOverall, the MOVA logo represents a fashion brand that encourages people to embrace change, express individuality, and move confidently through life with style. The identity is intentionally versatile, allowing it to work beautifully across clothing, labels, packaging, retail spaces, social media, and digital platforms.",
+      "featured": false,
+      "impactMetric": "",
+      "category": "Brand Identity",
+      "year": "",
+      "caseStudy": {
+        "challenge": "",
+        "solution": "",
+        "overview": "",
+        "deliverables": [],
+        "results": []
+      },
+      "title": "Logo & Brand Identity Design for clothing brand",
+      "tag": "",
+      "id": "aerivo-lifestyle",
+      "client": "",
+      "gradient": "from-blue-900 via-sky-950 to-slate-900",
+      "coverImage": "/uploads/5eb77145-b115-4703-a631-3f69ea0df341.png",
+      "images": [
+        "/uploads/e7f3f33b-aa00-421a-bdaa-f23f1ab3da27.png",
+        "/uploads/dd5aaaa1-b27a-417b-a31c-08a54842e10d.png",
+        "/uploads/539f01c5-2f90-4e8d-b2e3-cdf0e7075611.png",
+        "/uploads/5f8f410c-a7d2-4cba-a50b-b1ac3f04d181.png"
+      ],
+      "videoUrl": "",
+      "secondaryVideoUrl": "",
+      "coverPhoto": ""
+    },
+    {
+      "category": "Brand Identity",
+      "featured": false,
+      "description": "The STRIDE logo is designed around a dynamic “S” shape, representing speed, forward movement, energy, and the drive to win. Its sharp and flowing form reflects the idea of always moving ahead and pushing performance further.\n\nThe black and neon green color combination gives the brand a modern, energetic, powerful, and premium sports identity.\n\nAt its core, STRIDE stands for one simple mindset:\n\nMOVE. PLAY. WIN.\n\n",
+      "coverImage": "/uploads/0373fd38-b248-4d52-b0f0-d4a8de629a15.jpg",
+      "caseStudy": {
+        "solution": "",
+        "overview": "",
+        "challenge": "",
+        "deliverables": [],
+        "results": []
+      },
+      "year": "",
+      "id": "stride-athletics",
+      "images": [
+        "/uploads/af6f67b0-cb81-458b-9ac4-9bae03225cd8.jpg",
+        "/uploads/f582e7bf-5ab6-4a77-ba81-ce6be84bb036.png",
+        "/uploads/11661105-0155-4ab3-b415-8f6a166e9cec.png",
+        "/uploads/e3026c39-b38f-4c99-9859-8031b24d7c3c.png",
+        "/uploads/c9136f3c-f1c8-49ef-bde0-5d14df1f4337.png",
+        "/uploads/dd3de726-b06f-4022-999f-18df2b2aa7dd.png",
+        "/uploads/708d8d36-5813-4833-82dc-4a2a7c549e0d.jpg",
+        "/uploads/bd903eef-ec54-4738-9bc4-0ded20decfbc.png"
+      ],
+      "impactMetric": "",
+      "client": "",
+      "tag": "",
+      "title": "Stride logo & brand identity",
+      "gradient": "from-lime-950 via-zinc-900 to-black",
+      "videoUrl": "",
+      "secondaryVideoUrl": "",
+      "coverPhoto": ""
+    },
+    {
+      "impactMetric": "Featured in Monocle",
+      "id": "kura-coffee",
+      "gradient": "from-amber-950 via-stone-900 to-black",
+      "category": "Brand Identity",
+      "caseStudy": {
+        "solution": "",
+        "overview": "",
+        "deliverables": [],
+        "results": [],
+        "challenge": ""
+      },
+      "featured": false,
+      "tag": "",
+      "description": "This brand represents movement, direction, progress and growth through a dynamic stylised “4”.",
+      "coverImage": "/uploads/d1ae79a8-c821-495a-9ce0-abb4926081a2.png",
+      "images": [
+        "/uploads/3a65913d-4253-4f77-ac4a-b8791bd88ab6.png",
+        "/uploads/3907ffde-6957-4f56-8ade-8d7d90eccdf3.png",
+        "/uploads/5ac3b9dc-f226-41a4-8881-347edef58ab0.png",
+        "/uploads/b573fbb9-b711-41ed-8454-c5640024f6a4.png",
+        "/uploads/b7d1c3cd-9477-4cae-bc98-bfb074d7cf4b.png"
+      ],
+      "title": "4 THE NORTH Logo Design | Creative Brand Identity Design",
+      "year": "",
+      "client": "",
+      "videoUrl": "",
+      "secondaryVideoUrl": "",
+      "coverPhoto": ""
+    },
+    {
+      "coverImage": "/uploads/dd271df0-50ff-4f2a-b9b6-d6df61c8808a.webp",
+      "featured": true,
+      "category": "UI/UX & App Dev",
+      "tag": "",
+      "description": "Eloura is a modern skincare website that embraces clean design and gentle aesthetics. With a structured layout, soft tones, and intuitive navigation, Glownestmakes it easy for users to explore products, understand ingredients, and shop with confidence. Fully responsive and thoughtfully designed, it offers a calm, elegant experience across all devices — reflecting the purity and care behind every skincare journey.",
+      "caseStudy": {
+        "results": [],
+        "solution": "",
+        "overview": "",
+        "deliverables": [],
+        "challenge": ""
+      },
+      "title": "Beauty Product website",
+      "gradient": "from-blue-900 via-indigo-950 to-black",
+      "client": "",
+      "id": "beaver-social",
+      "images": [],
+      "impactMetric": "",
+      "year": "",
+      "videoUrl": "",
+      "secondaryVideoUrl": "",
+      "coverPhoto": ""
+    },
+    {
+      "images": [
+        "/uploads/8cc1da9a-9469-4e9a-8b09-648eaa60ffc5.webp"
+      ],
+      "coverImage": "/uploads/3733cbe7-d93b-479c-b3fd-e61149700eb2.webp",
+      "category": "UI/UX & App Dev",
+      "featured": true,
+      "client": "",
+      "description": "This website design presents a modern, vibrant, and professional aesthetic tailored for a digital agency or creative consultancy. It balances a high-energy color palette with a structured, user-friendly layout.",
+      "title": "Automation and design service",
+      "year": "",
+      "impactMetric": "",
+      "tag": "",
+      "gradient": "from-purple-950 via-indigo-950 to-black",
+      "id": "examly-quiz",
+      "caseStudy": {
+        "results": [],
+        "challenge": "",
+        "overview": "",
+        "solution": " ",
+        "deliverables": []
+      },
+      "videoUrl": "",
+      "secondaryVideoUrl": "",
+      "coverPhoto": "/uploads/eb865843-4a05-4b33-a492-46125b0e678b.webp"
+    },
+    {
+      "coverImage": "/uploads/5689b510-490c-4905-82d6-c6f2976a4c49.webp",
+      "gradient": "from-sky-950 via-slate-900 to-black",
+      "description": "This mobile UI design focuses on a modern, Gamified EdTech experience. It effectively balances dense data visualization with a clean, approachable aesthetic, primarily using a palette of vibrant purples, soft pastels, and high-contrast call-to-action (CTA) elements. Visual Hierarchy & Branding\nThe app utilizes a \"Card-Based\" layout, which is excellent for organizing disparate pieces of information like scores, rankings, and topic breakdowns without overwhelming the user.\n\nColor Palette: A sophisticated mix of Deep Purple (#5D2EC0) for primary actions and \"Success\" indicators, paired with soft background tints. High-visibility oranges and corals are used strategically for \"Recommended\" or \"Action Required\" sections.\nTypography: A clean, geometric Sans-Serif font ensures legibility. Large headings are used for primary stats (e.g., \"69%\"), while smaller, lighter weights handle metadata (e.g., \"35min/45min\").\nIconography: Linear, colorful icons provide visual anchors for metrics like time spent, correct answers, and rankings.   ",
+      "caseStudy": {
+        "results": [],
+        "challenge": "",
+        "overview": "",
+        "solution": "",
+        "deliverables": []
+      },
+      "title": "Examly - Quiz Result Overview Overview",
+      "year": "",
+      "impactMetric": "",
+      "client": "",
+      "id": "nexapay-wallet",
+      "tag": "",
+      "featured": false,
+      "category": "UI/UX & App Dev",
+      "images": [
+        "/uploads/51f1cc76-ac48-49f9-8ee1-f80a36917741.webp"
+      ],
+      "videoUrl": "",
+      "secondaryVideoUrl": "",
+      "coverPhoto": ""
+    },
+    {
+      "images": [
+        "/uploads/288a3fe7-b1bd-4df4-94b0-9cc21c4c7ba3.webp"
+      ],
+      "id": "apexmetrics-saas",
+      "gradient": "from-blue-950 via-slate-900 to-black",
+      "client": "",
+      "description": "A modern and elegant real estate landing page crafted to help property businesses showcase listings, build trust, and drive more inquiries.\n\nThe design focuses on clean layouts, intuitive navigation, stunning property visuals, and a seamless user experience. From featured properties to agent profiles and client testimonials, every section is designed to guide visitors toward taking action.\n\nHighlights:\n\n• Modern & Minimal UI\n\n• Property Showcase Sections\n\n• Agent & Testimonial Features\n\n• Mobile-Friendly Experience\n\n• Conversion-Focused Layout\n\nDesigned with simplicity, trust, and usability in mind to create a premium property browsing experience.",
+      "impactMetric": "",
+      "tag": "",
+      "coverImage": "/uploads/b214b925-6e19-4390-aa46-242184ed3989.webp",
+      "year": "",
+      "category": "UI/UX & App Dev",
+      "caseStudy": {
+        "challenge": "",
+        "deliverables": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "results": [
+          "",
+          ""
+        ],
+        "solution": "",
+        "overview": ""
+      },
+      "featured": false,
+      "title": "Real Estate Landing page",
+      "videoUrl": "",
+      "secondaryVideoUrl": "",
+      "coverPhoto": "/uploads/ef245458-cad8-412a-980c-84a1ccda8b8f.webp"
+    },
+    {
+      "caseStudy": {
+        "deliverables": [
+          ""
+        ],
+        "challenge": "",
+        "overview": "",
+        "solution": "",
+        "results": []
+      },
+      "impactMetric": "1.2M Downloads",
+      "tag": "Desktop & Web Productivity App",
+      "client": "Chrono Technologies Berlin",
+      "featured": false,
+      "images": [
+        "/uploads/a44da2c0-bd64-4e17-bc55-7398ee49e5a0.webp",
+        "/uploads/e788bd91-a025-47bf-91c0-cf387b12ac1f.webp",
+        "/uploads/63e239ed-29ed-4f2f-b572-56f0ba6c6095.webp"
+      ],
+      "category": "UI/UX & App Dev",
+      "coverImage": "/uploads/3a5688c9-ff73-48ba-8bae-fbac819800e1.webp",
+      "description": "Introducing Pizza hut, a modern Point of Sale system crafted for seamless restaurant and café operations. This interface is designed to bring clarity and speed to everyday ordering tasks—from browsing menus to customizing orders and tracking payment summaries.\n\nKey features highlighted:\n\n• Organized dashboard and data flow\n\n• Clean and scalable interface\n\n• User-friendly navigation\n\n• Clear visual hierarchy for quick insights",
+      "title": "Restaurant Dashboard",
+      "gradient": "from-slate-900 via-neutral-900 to-black",
+      "year": "",
+      "id": "chrono-workspace",
+      "videoUrl": "",
+      "secondaryVideoUrl": "",
+      "coverPhoto": "/uploads/c7145727-a320-4147-bed1-6fe7d0945526.webp"
+    },
+    {
+      "id": "kora-health",
+      "category": "UI/UX & App Dev",
+      "featured": false,
+      "caseStudy": {
+        "challenge": "",
+        "deliverables": [],
+        "results": [],
+        "overview": "",
+        "solution": ""
+      },
+      "description": "A modern and clean ecommerce website concept focused on creating a seamless shopping experience. The design emphasizes product visibility, intuitive navigation, and a streamlined purchasing journey. Featuring a minimal interface, organized product listings, and a detailed product page, this concept is crafted to enhance user engagement and drive conversions.\n\nKey Features:\n\n• Product Listing Page\n\n• Product Details Page\n\n• Clean & Minimal UI\n\n• Responsive Layout Approach\n\n• User-Centered Shopping Experience\n\n• Modern Ecommerce Design System",
+      "year": "",
+      "tag": "",
+      "coverImage": "/uploads/dfd08e05-da92-44f5-b576-ba8492cab063.webp",
+      "title": "Modern Ecommerce Shopping Website",
+      "images": [
+        "/uploads/e25df00c-aa91-40df-9b6d-2677944611cc.webp",
+        "/uploads/57342fa5-63b4-450e-816f-c72e855a627a.webp",
+        "/uploads/684a60aa-aaa4-4611-af35-db39276f2b3a.webp"
+      ],
+      "impactMetric": "",
+      "gradient": "from-teal-950 via-slate-900 to-black",
+      "client": "",
+      "videoUrl": "",
+      "secondaryVideoUrl": "",
+      "coverPhoto": ""
+    },
+    {
+      "gradient": "from-blue-950 via-slate-900 to-black",
+      "tag": "",
+      "description": "We’re a creative digital agency helping brands look better, connect with people, and grow online.\n\nFrom branding and graphic design to web development, UI/UX, motion graphics, and digital marketing, we create simple, modern, and effective digital solutions.\n\nWe turn ideas into meaningful digital experiences.\n",
+      "id": "vanguard-launch-film",
+      "impactMetric": "",
+      "coverImage": "/uploads/419c49e9-c087-4b00-98e8-2da3049e5e16.png",
+      "videoUrl": "/uploads/1c5f17b9-2e79-4256-bdbe-0d5b3dd84450.mp4",
+      "year": "",
+      "client": "",
+      "coverPhoto": "/uploads/c5c7ea9b-bebc-46c7-a5fa-e4573231facf.png",
+      "images": [],
+      "title": "Motion Grpahics",
+      "caseStudy": {
+        "deliverables": [],
+        "challenge": "",
+        "overview": "",
+        "solution": "",
+        "results": []
+      },
+      "featured": true,
+      "category": "Video & Motion",
+      "secondaryVideoUrl": ""
+    },
+    {
+      "coverImage": "/uploads/914665a0-57f9-41d8-aae8-c08e70ef8b47.png",
+      "videoUrl": "/uploads/0fb647a0-d674-4da8-9069-f2f0d49e2ea7.mp4",
+      "images": [],
+      "client": "",
+      "id": "pulse-product-commercial",
+      "year": "",
+      "gradient": "from-violet-950 via-slate-900 to-black",
+      "impactMetric": "",
+      "description": "We’re a creative digital agency helping brands look better, connect with people, and grow online.\n\nFrom branding and graphic design to web development, UI/UX, motion graphics, and digital marketing, we create simple, modern, and effective digital solutions.\n\nWe turn ideas into meaningful digital experiences.\n",
+      "coverPhoto": "/uploads/bde0a515-b36e-42ec-b492-b27757a6ae60.png",
+      "tag": "",
+      "caseStudy": {
+        "results": [],
+        "solution": "",
+        "overview": "",
+        "challenge": "",
+        "deliverables": []
+      },
+      "title": "Motion graphics that make tech products stand out",
+      "category": "Video & Motion",
+      "featured": true,
+      "secondaryVideoUrl": ""
+    }
+  ],
+  "founderData": {
+    "name": "Habib Ahmed ",
+    "role": "Founder & Creative Director",
+    "bio": [
+      "I’m Habib, Founder of Digital With Habib and a creative designer passionate about building strong brands and meaningful digital experiences.\n"
+    ],
+    "title": "",
+    "socials": {
+      "behance": "https://www.behance.net/digitalwithhabib",
+      "dribbble": "https://dribbble.com/mehabibahmed",
+      "twitter": "https://twitter.com",
+      "whatsapp": "https://wa.me/8801734144347?text=Hello!%20I%20would%20like%20to%20start%20a%20project%20with%20DWH%20Studio.",
+      "linkedin": "https://www.linkedin.com/company/digitalwithhabib"
+    },
+    "tagline": "We Create Brands that People Remember.",
+    "skills": [
+      {
+        "name": "",
+        "level": 0
+      }
+    ],
+    "image": "/uploads/3ed42705-c40d-4095-aaff-e5761b1f68d2.png"
+  },
+  "clientLogos": [
+    {
+      "id": "gp",
+      "category": "TELECOMMUNICATIONS",
+      "region": "bangladeshi",
+      "iconLetter": "GP",
+      "name": "Grameenphone",
+      "accentColor": "#00A3E0",
+      "logoUrl": "/uploads/d36c75e9-2987-4f1b-a910-f34cd57f6065.webp"
+    },
+    {
+      "region": "bangladeshi",
+      "id": "pathao",
+      "iconLetter": "P",
+      "accentColor": "#E60000",
+      "category": "RIDE-HAILING, LOGISTICS",
+      "name": "Pathao",
+      "logoUrl": "/uploads/5fa69d01-b945-409f-98ed-143e6ada30f1.png"
+    },
+    {
+      "id": "aarong",
+      "category": "BRAC LIFESTYLE",
+      "accentColor": "#FF6F00",
+      "region": "bangladeshi",
+      "iconLetter": "A",
+      "name": "Aarong",
+      "logoUrl": "/uploads/f8a0ec98-5239-4cad-b929-f2af9ee4d373.png"
+    },
+    {
+      "region": "bangladeshi",
+      "iconLetter": "SQ",
+      "accentColor": "#00843D",
+      "name": "Square Group",
+      "category": "HEALTHCARE, PHARMA",
+      "id": "square",
+      "logoUrl": "/uploads/8ec616ab-33e7-4ee4-b5f4-6370d4417c6a.jpg"
+    },
+    {
+      "category": "ONLINE GROCERY TECH PIONEER",
+      "accentColor": "#FFB800",
+      "region": "bangladeshi",
+      "id": "chaldal",
+      "name": "Chaldal",
+      "iconLetter": "C",
+      "logoUrl": "/uploads/1c58b3b0-a983-4b36-ba48-1c620583ec85.webp"
+    },
+    {
+      "iconLetter": "SU",
+      "id": "shopup",
+      "name": "ShopUp",
+      "accentColor": "#4A154B",
+      "category": "B2B DIGITAL COMMERCE",
+      "region": "bangladeshi",
+      "logoUrl": "/uploads/740dbe0b-daed-4087-86fd-64d378b3112b.jpg"
+    },
+    {
+      "category": "GLOBAL FOOD, AGRO",
+      "id": "pran",
+      "accentColor": "#E53935",
+      "iconLetter": "PR",
+      "region": "bangladeshi",
+      "name": "PRAN-RFL Group",
+      "logoUrl": "/uploads/4e205bd0-2d46-4578-9284-2f962a676a24.png"
+    },
+    {
+      "category": "CONSUMER ELECTRONICS",
+      "id": "walton",
+      "iconLetter": "W",
+      "region": "bangladeshi",
+      "accentColor": "#005BBB",
+      "name": "Walton Hi-Tech",
+      "logoUrl": "/uploads/2f0dfc63-dc2b-4700-be69-b7900b35b24f.webp"
+    },
+    {
+      "accentColor": "#E2136E",
+      "id": "bkash",
+      "region": "bangladeshi",
+      "category": "FINTECH UNICORN",
+      "iconLetter": "bK",
+      "name": "bKash",
+      "logoUrl": "/uploads/7313d3ef-a038-45ec-a62d-fb1904a062a7.png"
+    },
+    {
+      "category": "DIGITAL FINANCIAL SERVICES",
+      "iconLetter": "N",
+      "region": "bangladeshi",
+      "name": "Nagad",
+      "accentColor": "#F7931E",
+      "id": "nagad",
+      "logoUrl": "/uploads/5d92ff85-ba3b-4a9c-a926-3e667650bb97.png"
+    },
+    {
+      "accentColor": "#FF5722",
+      "iconLetter": "D",
+      "category": "ECOMMERCE MARKETPLACE",
+      "name": "Daraz",
+      "region": "bangladeshi",
+      "id": "daraz",
+      "logoUrl": "/uploads/4fe20a75-3bbd-4631-b713-409df7b94335.png"
+    },
+    {
+      "iconLetter": "S",
+      "name": "Shikho",
+      "region": "bangladeshi",
+      "accentColor": "#6C5CE7",
+      "category": "EDTECH REVOLUTION",
+      "id": "shikho",
+      "logoUrl": "/uploads/c51d151f-4851-4812-a9e6-9cfbf4bb66ef.png"
+    },
+    {
+      "accentColor": "#000000",
+      "iconLetter": "N",
+      "region": "international",
+      "name": "Notion",
+      "category": "CONNECTED WORKSPACE",
+      "id": "notion",
+      "logoUrl": "/uploads/91ab41fa-f2ca-4239-88fb-c8a5d88f4607.webp"
+    },
+    {
+      "region": "international",
+      "iconLetter": "GC",
+      "accentColor": "#4285F4",
+      "id": "googlecloud",
+      "name": "Google Cloud",
+      "category": "CLOUD INFRASTRUCTURE",
+      "logoUrl": "/uploads/3e34ea28-2d01-43b5-acfc-d180f40484bb.png"
+    },
+    {
+      "iconLetter": "S",
+      "accentColor": "#96BF48",
+      "region": "international",
+      "category": "GLOBAL ECOMMERCE",
+      "id": "shopify",
+      "name": "Shopify",
+      "logoUrl": "/uploads/2b596e33-cb07-4f98-a826-335b171b447e.png"
+    },
+    {
+      "iconLetter": "ST",
+      "accentColor": "#635BFF",
+      "id": "stripe",
+      "name": "Stripe",
+      "category": "FINANCIAL INFRASTRUCTURE",
+      "region": "international",
+      "logoUrl": "/uploads/21fc15b2-244c-4043-afd7-3693f5f96ce0.png"
+    },
+    {
+      "accentColor": "#4353FF",
+      "category": "VISUAL DEVELOPMENT",
+      "name": "Webflow",
+      "iconLetter": "W",
+      "region": "international",
+      "id": "webflow",
+      "logoUrl": "/uploads/b5af4b62-794d-4263-853f-47efb06fcb11.png"
+    },
+    {
+      "region": "international",
+      "accentColor": "#FF9900",
+      "name": "AWS Cloud",
+      "id": "aws",
+      "iconLetter": "AWS",
+      "category": "ENTERPRISE CLOUD COMPUTING",
+      "logoUrl": "/uploads/2fda338a-e297-411a-8913-97bec57682b4.png"
+    },
+    {
+      "category": "INBOUND MARKETING",
+      "iconLetter": "HS",
+      "accentColor": "#FF7A59",
+      "name": "HubSpot",
+      "id": "hubspot",
+      "region": "international",
+      "logoUrl": "/uploads/62467f19-75e0-4ea2-a011-0deff896af7e.png"
+    },
+    {
+      "iconLetter": "F",
+      "category": "COLLABORATIVE DESIGN",
+      "id": "figma",
+      "name": "Figma",
+      "accentColor": "#F24E1E",
+      "region": "international",
+      "logoUrl": "/uploads/41cf7edb-b9ba-4f71-8e44-e326db9dcc87.jpg"
+    }
+  ],
+  "haloAvatars": [
+    {
+      "size": 58,
+      "company": "ApexMetrics",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=300&q=80",
+      "role": "Head of Product",
+      "y": 55,
+      "floatDelay": 0.2,
+      "id": "h1",
+      "name": "Elena Rostova",
+      "rating": 5,
+      "x": 8,
+      "quoteSnippet": "Super fast execution, incredible UI/UX polish."
+    },
+    {
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80",
+      "quoteSnippet": "Handled our rebrand and videos seamlessly.",
+      "name": "Julian Davis",
+      "company": "Peak Flow",
+      "role": "Founder",
+      "rating": 5,
+      "id": "h2",
+      "x": 18,
+      "floatDelay": 0.5,
+      "size": 64,
+      "y": 32
+    },
+    {
+      "id": "h3",
+      "rating": 5,
+      "floatDelay": 0.9,
+      "company": "NexaPay",
+      "name": "Sophia Lin",
+      "role": "Co-Founder",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80",
+      "x": 29,
+      "quoteSnippet": "Closed our funding round with our new design.",
+      "y": 15,
+      "size": 60
+    },
+    {
+      "company": "Vance Labs",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
+      "name": "Marcus Vance",
+      "id": "h4",
+      "floatDelay": 0.4,
+      "rating": 5,
+      "x": 41,
+      "size": 66,
+      "role": "CEO",
+      "quoteSnippet": "Nailed our vision on the very first pass.",
+      "y": 6
+    },
+    {
+      "size": 66,
+      "floatDelay": 0.7,
+      "rating": 5,
+      "role": "VP Design",
+      "company": "HyperCloud",
+      "id": "h5",
+      "quoteSnippet": "World-class aesthetic with zero fluff.",
+      "y": 6,
+      "name": "David Sterling",
+      "x": 59,
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "floatDelay": 0.3,
+      "name": "Maya Kim",
+      "x": 71,
+      "company": "Hopsk",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80",
+      "y": 15,
+      "quoteSnippet": "Clean process, great work, no hand-holding.",
+      "size": 62,
+      "rating": 5,
+      "role": "Head of Product",
+      "id": "h6"
+    },
+    {
+      "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=300&q=80",
+      "company": "Milles",
+      "id": "h7",
+      "name": "Eli Ramos",
+      "rating": 5,
+      "y": 32,
+      "size": 64,
+      "quoteSnippet": "Quick turnaround and brilliant motion.",
+      "role": "Founder",
+      "x": 82,
+      "floatDelay": 0.6
+    },
+    {
+      "floatDelay": 0.8,
+      "quoteSnippet": "High conversion rate bump on day 1.",
+      "name": "Liam Chen",
+      "y": 55,
+      "avatar": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80",
+      "x": 92,
+      "size": 58,
+      "company": "Zenith Health",
+      "id": "h8",
+      "rating": 5,
+      "role": "CTO"
+    }
+  ],
+  "version": "3.0",
+  "sections": {
+    "services": [
+      {
+        "id": "saas-design",
+        "number": "01",
+        "title": "SaaS Design",
+        "icon": "Layers",
+        "description": "\nWhat’s Included\n- SaaS Dashboards & Data Portals\n- Consistent Design Systems\n- Easy User Onboarding\n- Charts & Analytics Design",
+        "points": []
+      },
+      {
+        "id": "app-design",
+        "number": "02",
+        "title": "App Design",
+        "icon": "Smartphone",
+        "description": "Human-centered iOS, Android and cross-platform mobile apps crafted with fluid tactile gestures, native micro-interactions, and delightful usability.",
+        "points": [
+          "iOS & Android Native Mobile UI/UX",
+          "Interactive Figma Motion Prototypes",
+          "Cross-Platform Adaptive Layouts",
+          "Design Tokens & Engineering Handoff"
+        ]
+      },
+      {
+        "id": "brand-identity",
+        "number": "03",
+        "title": "Brand Identity",
+        "icon": "Sparkles",
+        "description": "Visual systems, logos, typography and brand direction that give your business a clear and memorable presence.",
+        "points": [
+          "Logo Design & Brand Mark",
+          "Visual Identity Systems",
+          "Typography & Color Palettes",
+          "Brand Style Guides"
+        ]
+      },
+      {
+        "id": "ui-ux-design",
+        "number": "04",
+        "title": "UI/UX & Product Design",
+        "icon": "Layout",
+        "description": "Clean, intuitive interfaces designed to make websites, software and mobile applications easy and enjoyable to use.",
+        "points": [
+          "Web & Mobile App Design",
+          "SaaS Dashboard Interfaces",
+          "Wireframing & Prototyping",
+          "Design Systems"
+        ]
+      },
+      {
+        "id": "web-landing-page",
+        "number": "05",
+        "title": "Web & Landing Page Design",
+        "icon": "Code2",
+        "description": "Modern, responsive websites built to present your business clearly and convert visitors into clients.",
+        "points": [
+          "Custom Website Design",
+          "High-Converting Landing Pages",
+          "Clean Development Handoff",
+          "Mobile-First Experience"
+        ]
+      },
+      {
+        "id": "video-motion",
+        "number": "06",
+        "title": "Video & Motion Design",
+        "icon": "Video",
+        "description": "Dynamic motion graphics and promotional video assets that help explain your product and capture attention.",
+        "points": [
+          "Product Demo Animations",
+          "Social Media Motion Content",
+          "Promotional Brand Videos",
+          "UI Interaction Motion"
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "value": "40+",
+        "label": "Completed Brand & Web Projects",
+        "sub": "From emerging startups to enterprise platforms across US, Europe, and Asia.",
+        "icon": "Trophy"
+      },
+      {
+        "value": "99.4%",
+        "label": "Client Satisfaction Rate",
+        "sub": "Measured across 140+ completed agency sprints.",
+        "icon": "Star"
+      },
+      {
+        "value": "$50M+",
+        "label": "Client Capital Raised",
+        "sub": "Our design systems and pitch materials directly supported Series A–C fundraises.",
+        "icon": "TrendingUp"
+      },
+      {
+        "value": "48h",
+        "label": "Average First Delivery",
+        "sub": "From kickoff to first usable Figma deliverable in two business days.",
+        "icon": "Clock"
+      }
+    ],
+    "valuePillars": [
+      {
+        "title": "Quality Over Quantity",
+        "desc": "We limit active projects to provide deep personal attention and meticulous craftsmanship."
+      },
+      {
+        "title": "Direct Strategic Collaboration",
+        "desc": "Collaborate directly with dedicated project leaders and creative directors for transparent, agile execution."
+      },
+      {
+        "title": "Clear Timelines & Pricing",
+        "desc": "Predictable milestones, upfront transparent scopes, and dependable delivery every time."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What services does Digital With Habib offer?",
+        "answer": "We specialize in Brand Identity, UI/UX Design, Web Development (custom websites & landing pages), SaaS & App Design, and Video/Motion graphics."
+      },
+      {
+        "question": "How do we start working together?",
+        "answer": "Simply reach out via our contact form, email, or chat on WhatsApp. We will discuss your goals, outline a clear scope and timeline, and provide a transparent proposal."
+      },
+      {
+        "question": "How long does a typical project take?",
+        "answer": "Most branding and landing page projects take between 2 to 4 weeks, while comprehensive web apps or full design systems take 4 to 8 weeks depending on complexity."
+      },
+      {
+        "question": "How do revisions work?",
+        "answer": "We believe in collaborative refinement. Each project milestone includes structured review cycles to make sure you are 100% satisfied with the outcome."
+      },
+      {
+        "question": "Can you work with teams in different timezones?",
+        "answer": "Yes! We work asynchronously with founders and teams across the US, Europe, Asia, and globally with smooth communication and regular milestone updates."
+      }
+    ],
+    "principles": [
+      {
+        "num": "01/",
+        "title": "Design is more than aesthetics",
+        "desc": "It's about solving real business challenges. Our process ensures every decision serves a clear purpose and measurable objective."
+      },
+      {
+        "num": "02/",
+        "title": "Thoughtful solutions over quick fixes",
+        "desc": "Each project is an opportunity to create lasting value through rigorous strategy, architectural precision, and holistic design systems."
+      },
+      {
+        "num": "03/",
+        "title": "Rapid 48-Hour sprint iterations",
+        "desc": "No waiting weeks for boardroom presentations. You receive clean, testable mockups and prototypes within days."
+      }
+    ],
+    "values": [
+      {
+        "icon": "Eye",
+        "title": "Clarity First",
+        "description": "We remove unnecessary complexity so your message and product stay clear."
+      },
+      {
+        "icon": "Compass",
+        "title": "Craft & Detail",
+        "description": "Every layout, interaction and visual detail is refined with care."
+      },
+      {
+        "icon": "Handshake",
+        "title": "True Partnership",
+        "description": "We work alongside you as a dedicated creative partner, not just another vendor."
+      }
+    ],
+    "processSteps": [
+      {
+        "stepNumber": "01",
+        "title": "Understand",
+        "duration": "Week 1",
+        "subtitle": "Strategic Discovery & Alignment",
+        "description": "We dig deep into your product architecture, target audience pain points, commercial ambitions, and market positioning before touching design.",
+        "keyOutputs": [
+          "Competitive Matrix Analysis",
+          "User Persona Profiles",
+          "Brand Positioning Compass",
+          "Technical Scope Document"
+        ]
+      },
+      {
+        "stepNumber": "02",
+        "title": "Plan",
+        "duration": "Week 2",
+        "subtitle": "Architecture & Creative Direction",
+        "description": "Establishing typography systems, structural wireframes, motion concepts, and user journeys to ensure every detail has intentional purpose.",
+        "keyOutputs": [
+          "Information Architecture Map",
+          "Interactive Wireframe Prototypes",
+          "Moodboards & Motion Language",
+          "Milestone Delivery Roadmap"
+        ]
+      },
+      {
+        "stepNumber": "03",
+        "title": "Create",
+        "duration": "Weeks 3 - 4",
+        "subtitle": "Production & Pixel Craft",
+        "description": "Executing high-fidelity UI design, bespoke vector brand identity, Next.js web development, and 4K motion graphics with rigorous craftsmanship.",
+        "keyOutputs": [
+          "Production Figma Component Library",
+          "Next.js & TypeScript Codebase",
+          "Color-Graded 4K Motion Assets",
+          "Responsive Multi-Device Testing"
+        ]
+      },
+      {
+        "stepNumber": "04",
+        "title": "Deliver",
+        "duration": "Week 5+",
+        "subtitle": "Launch, Testing & Hypercare",
+        "description": "Publishing your digital flagship, handing over full source repositories, and providing 30 days of complimentary post-launch support.",
+        "keyOutputs": [
+          "Production Cloud Deployment",
+          "Comprehensive Design Guidelines Book",
+          "Figma Master Files & Vector SVGs",
+          "30-Day Post-Launch Hypercare"
+        ]
+      }
+    ],
+    "navigation": [
+      {
+        "id": "home",
+        "label": "Home",
+        "num": "01"
+      },
+      {
+        "id": "services",
+        "label": "Services",
+        "num": "02"
+      },
+      {
+        "id": "work",
+        "label": "Work",
+        "num": "03"
+      },
+      {
+        "id": "process",
+        "label": "Process",
+        "num": "04"
+      },
+      {
+        "id": "team",
+        "label": "Team",
+        "num": "05"
+      },
+      {
+        "id": "about",
+        "label": "About",
+        "num": "06"
+      },
+      {
+        "id": "contact",
+        "label": "Contact",
+        "num": "07"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": "brand-identity",
+      "title": "Brand Identity",
+      "categoryName": "Brand Identity",
+      "description": "Visual systems, logos, typography and brand direction that give your business a clear and memorable presence.",
+      "subservices": [
+        "Logo Design & Brand Mark",
+        "Visual Identity Systems",
+        "Typography & Color Palettes",
+        "Brand Style Guides"
+      ],
+      "deliverables": [
+        "Logo Design & Brand Mark Suite",
+        "Visual Identity Systems & Color Tokens",
+        "Typography & Color Palettes",
+        "Comprehensive Brand Style Guides"
+      ],
+      "timeline": "2 - 3 Weeks",
+      "startingPrice": "Discuss Project",
+      "icon": "Sparkles",
+      "badge": "Core Service",
+      "ctaText": "Discuss Your Project"
+    },
+    {
+      "id": "ui-ux-design",
+      "title": "UI/UX & Product Design",
+      "categoryName": "UI/UX Design",
+      "description": "Clean, intuitive interfaces designed to make websites, software and mobile applications easy and enjoyable to use.",
+      "subservices": [
+        "Web & Mobile App Design",
+        "SaaS Dashboard Interfaces",
+        "Wireframing & Prototyping",
+        "Design Systems"
+      ],
+      "deliverables": [
+        "Web & Mobile App Design (Figma)",
+        "SaaS Dashboard Interfaces",
+        "Wireframing & Interactive Prototyping",
+        "Comprehensive Design Systems"
+      ],
+      "timeline": "3 - 5 Weeks",
+      "startingPrice": "Discuss Project",
+      "icon": "Layout",
+      "badge": "Core Service",
+      "ctaText": "Discuss Your Project"
+    },
+    {
+      "id": "web-landing-page",
+      "title": "Web & Landing Page Design",
+      "categoryName": "Web Development",
+      "description": "Modern, responsive websites built to present your business clearly and convert visitors into clients.",
+      "subservices": [
+        "Custom Website Design",
+        "High-Converting Landing Pages",
+        "Clean Development Handoff",
+        "Mobile-First Experience"
+      ],
+      "deliverables": [
+        "Custom Website Design",
+        "High-Converting Landing Pages",
+        "Clean Development Handoff & Code",
+        "Mobile-First Responsive Experience"
+      ],
+      "timeline": "3 - 6 Weeks",
+      "startingPrice": "Discuss Project",
+      "icon": "Code2",
+      "badge": "Core Service",
+      "ctaText": "Discuss Your Project"
+    },
+    {
+      "id": "video-motion",
+      "title": "Video & Motion Design",
+      "categoryName": "Video & Motion",
+      "description": "Dynamic motion graphics and promotional video assets that help explain your product and capture attention.",
+      "subservices": [
+        "Product Demo Animations",
+        "Social Media Motion Content",
+        "Promotional Brand Videos",
+        "UI Interaction Motion"
+      ],
+      "deliverables": [
+        "Product Demo Animations",
+        "Social Media Motion Content",
+        "Promotional Brand Videos",
+        "UI Interaction Motion Assets"
+      ],
+      "timeline": "1 - 3 Weeks",
+      "startingPrice": "Discuss Project",
+      "icon": "Video",
+      "badge": "Core Service",
+      "ctaText": "Discuss Your Project"
+    }
+  ],
+  "stories": [
+    {
+      "id": "deborah-keith",
+      "name": "Deborah Keith",
+      "role": "Account Director",
+      "company": "Nordvision Tech Labs",
+      "hasVideo": true,
+      "videoUrl": "/uploads/2cb70dea-056a-43d9-a2cd-918c8dfa9a84.mp4",
+      "avatar": "/uploads/5a30c9ba-e707-4956-984b-5008702d394f.png",
+      "quote": "Working with the team was a game-changer. Their attention to detail and unique design solutions helped elevate our client’s brand significantly. The speed of execution within 48-hour sprints kept our executive board thrilled.",
+      "videoPoster": "/uploads/2449da0e-681c-4244-8b2d-090aa2bb5e73.png"
+    },
+    {
+      "id": "noah-kristiansen",
+      "name": "Noah Kristiansen",
+      "role": "Head of Projects",
+      "company": "TWBE Studios",
+      "avatar": "/uploads/d261d3d4-8818-43db-ac19-c2f2e3fe25b7.jpg",
+      "quote": "The team transformed our brand with stunning visuals and innovative designs. Their responsiveness and creativity exceeded our highest expectations.",
+      "videoUrl": "",
+      "videoPoster": "",
+      "hasVideo": false
+    },
+    {
+      "id": "sophia-williams",
+      "name": "Sophia Williams",
+      "role": "Marketing Manager",
+      "company": "Austrian Air",
+      "avatar": "/uploads/db8643cb-5037-47b5-83e0-7bbe00b84d16.jpg",
+      "quote": "The innovative approach and fast delivery were exactly what we needed. The team was collaborative and brought our complex flight booking ideas to life beautifully.",
+      "videoUrl": "",
+      "videoPoster": "",
+      "hasVideo": false
+    },
+    {
+      "id": "nicolas-sanchez",
+      "name": "Nicolás Sánchez",
+      "role": "Content Strategist",
+      "company": "Greenbay",
+      "avatar": "/uploads/b18c2251-2308-4bc7-927a-58f001f41912.jpg",
+      "quote": "The creativity and professionalism were unmatched. Our project was delivered on time and captured exactly what we envisioned for our environmental tech platform.",
+      "videoUrl": "",
+      "videoPoster": "",
+      "hasVideo": false
+    },
+    {
+      "id": "emma-robinson",
+      "name": "Emma Lee Robinson",
+      "role": "Creative Lead",
+      "company": "Bright 5 Collective",
+      "avatar": "/uploads/5a8d84ae-24c9-41bf-8fc1-ae4e73a56cbe.jpg",
+      "quote": "Arpeggio transformed our brand with stunning visuals and innovative designs. Their team was responsive, proactive, and consistently exceeded our expectations.",
+      "videoUrl": "",
+      "videoPoster": "",
+      "hasVideo": false
+    },
+    {
+      "id": "sarah-johnson",
+      "name": "Sarah Johnson",
+      "role": "Marketing Director",
+      "company": "BrightWave Media",
+      "avatar": "/uploads/4fed1b34-a916-417d-871d-7f6acb260aba.jpg",
+      "quote": "The innovative approach and attention to detail exceeded our expectations. The team’s ability to understand our vision and translate it into stunning designs made all the difference in our success.",
+      "videoUrl": "",
+      "videoPoster": "",
+      "hasVideo": false
+    },
+    {
+      "id": "lucas-peterson",
+      "name": "Lucas Peterson",
+      "role": "Client Services Manager",
+      "company": "Pulse Digital",
+      "avatar": "/uploads/5988b2b6-a93e-431e-9778-a4411ce79e2f.jpg",
+      "quote": "Seamless collaboration, zero bureaucratic friction, and world-class craft. Having an entire multidisciplinary studio on a single subscription is the future of agency partnerships.",
+      "videoUrl": "",
+      "videoPoster": "",
+      "hasVideo": false
+    }
+  ],
+  "copy": {
+    "Arpeggio Nav · 01": "Start a Project",
+    "Arpeggio Nav · 02": "Start a Project",
+    "Arpeggio Nav · 03": "Chat on WhatsApp",
+    "Arpeggio Hero · 01": "Start a Project",
+    "Arpeggio Hero · 02": "View Our Work",
+    "Arpeggio Hero · 03": "Fullscreen Reel",
+    "Portfolio Section · 01": " • ",
+    "Portfolio Section · 02": "View Case Study",
+    "Portfolio Section · 03": " • ",
+    "Portfolio Section · 04": "View Case Study",
+    "Portfolio Section · 05": "FULLSCREEN IMMERSION SHOWCASE",
+    "Portfolio Section · 06": "Scroll to expand visual architecture",
+    "Portfolio Section · 07": " • ",
+    "Portfolio Section · 08": "Explore Full Case Study",
+    "Portfolio Section · 09": "CURATED SHOWCASE TRACK • HORIZONTAL MOTION",
+    "Portfolio Section · 10": "Scroll vertically to glide",
+    "Portfolio Section · 11": "START YOUR JOURNEY",
+    "Portfolio Section · 12": " • ",
+    "Portfolio Section · 13": "View Case Study",
+    "Portfolio Section · 14": "Selected Portfolio",
+    "Portfolio Section · 15": "Our Work",
+    "Portfolio Section · 16": "See what we’ve been creating for our clients.",
+    "Portfolio Section · 17": "New work is on the way.",
+    "Portfolio Section · 18": "Have something in mind? Let’s make it happen.",
+    "Portfolio Section · 19": "Start a project",
+    "Arpeggio Achievements · 01": "Why Digital With Habib",
+    "Arpeggio Achievements · 02": "Design that connects, ",
+    "Arpeggio Achievements · 03": "experiences that last.",
+    "Arpeggio Achievements · 04": "We focus on quality over quantity. Every project is handled with direct communication, thoughtful strategy and craft that elevates your business.",
+    "Arpeggio Achievements · 05": "METRIC // 0",
+    "Arpeggio Services · 01": "Services",
+    "Arpeggio Services · 02": "Design & Development",
+    "Arpeggio Services · 03": " All in One Place",
+    "Arpeggio Services · 04": "From brand identity to websites, apps, and motion graphics—we bring your ideas to life.",
+    "Arpeggio Services · 05": "Service // ",
+    "Arpeggio Services · 06": "Key Deliverables & Capabilities",
+    "Arpeggio Services · 07": "Discuss ",
+    "Arpeggio Services · 08": "Discuss Your Project",
+    "Arpeggio FAQ · 01": "Frequently Asked Questions",
+    "Arpeggio FAQ · 02": "Got questions? ",
+    "Arpeggio FAQ · 03": "We've got answers.",
+    "Arpeggio FAQ · 04": "Find answers to common questions about working with Digital With Habib, our process, timelines and services.",
+    "Arpeggio FAQ · 05": "Still looking for answers or need a good chat?",
+    "Arpeggio FAQ · 06": "Connect directly with Habib and our creative team. We are happy to evaluate your project scope and recommend the right approach.",
+    "Arpeggio FAQ · 07": "Start a Project",
+    "Arpeggio FAQ · 08": "Chat on WhatsApp",
+    "Arpeggio Testimonials · 01": "CLIENT STORIES // TESTIMONIALS",
+    "Arpeggio Testimonials · 02": "Inspiring client experiences",
+    "Arpeggio Testimonials · 03": "Join visionary tech founders, creative directors, and global enterprises who scaled their design capabilities with our team.",
+    "Arpeggio Testimonials · 05": "Verified Client Story",
+    "Arpeggio Testimonials · 06": "“",
+    "Arpeggio Testimonials · 07": "”",
+    "Arpeggio Testimonials · 08": " • ",
+    "Arpeggio Testimonials · 09": "Watch 60-Sec Client Story",
+    "Arpeggio Testimonials · 10": "“",
+    "Arpeggio Testimonials · 11": "”",
+    "Arpeggio Testimonials · 12": " • ",
+    "Process Section · 01": "Our Approach // The way we work",
+    "Process Section · 02": "The way we work",
+    "Process Section · 03": "Simple steps, remarkable results.",
+    "Process Section · 04": "Our approach combines strategic thinking with creative excellence. We listen first, understand your goals, and transform ideas into impactful digital experiences.",
+    "Process Section · 05": "Phase 01",
+    "Process Section · 06": "Discovery & Strategy",
+    "Process Section · 07": "Phase 02",
+    "Process Section · 08": "Execution & Design",
+    "Process Section · 09": "Phase 03",
+    "Process Section · 10": "Production & Launch",
+    "Process Section · 11": "Collaboration",
+    "Process Section · 12": "Every project begins with understanding your unique needs.",
+    "Process Section · 13": "Our collaborative process ensures clear communication, focused attention, and consistent quality—delivered by a dedicated team that's invested in your vision.",
+    "Process Section · 14": "48h Sprint Delivery",
+    "Process Section · 15": "Direct Slack / WA",
+    "Process Section · 16": "Unlimited Revisions",
+    "Process Section · 17": "Pause or Cancel Anytime",
+    "Team Section · 01": "Team",
+    "Team Section · 02": "Small team, ",
+    "Team Section · 03": "big dedication.",
+    "Team Section · 04": "We are a focused creative team working closely with clients to bring ideas to life with care and attention to detail.",
+    "Team Section · 05": " Projects",
+    "Team Section · 10": "Direct Practice Areas",
+    "Team Section · 11": "Send Direct Inquiry",
+    "About Section · 01": "About Digital With Habib",
+    "About Section · 02": "A design studio focused on simple, useful and memorable digital experiences.",
+    "About Section · 03": "Digital With Habib is an independent design studio founded by Habib. We collaborate with founders, businesses and teams worldwide to build clear visual identities, modern websites and practical digital products.",
+    "About Section · 04": "Our approach is straightforward: listen carefully, design with purpose, and create work that delivers real value.",
+    "About Section · 05": "Our Values & Philosophy",
+    "About Section · 06": "Principle 0",
+    "About Section · 07": "Ready to create something memorable?",
+    "About Section · 08": "We collaborate with forward-thinking founders and teams across North America, Europe, and Asia.",
+    "About Section · 09": "Start a Project",
+    "Contact Section · 01": "Contact Us",
+    "Contact Section · 02": "Let's build something ",
+    "Contact Section · 03": "remarkable together.",
+    "Contact Section · 04": "Have a project in mind or want to discuss a new idea? Get in touch and let's see how we can help.",
+    "Contact Section · 05": "Start a Project",
+    "Contact Section · 06": "Chat on WhatsApp",
+    "Contact Section · 07": "Direct Communication",
+    "Contact Section · 08": "We respond to all direct inquiries within 24 hours. Founders and product teams receive direct attention from Habib and our senior design partners.",
+    "Contact Section · 09": "Message Received",
+    "Contact Section · 10": "Thank you, ",
+    "Contact Section · 11": ". Habib and the Digital With Habib team have received your project details and will reply shortly.",
+    "Contact Section · 12": "Send another message",
+    "Contact Section · 13": "Your Name",
+    "Contact Section · 14": "Email Address",
+    "Contact Section · 15": "WhatsApp Number",
+    "Contact Section · 16": "Business or Brand Name",
+    "Contact Section · 17": "What do you need help with?",
+    "Contact Section · 22": "Project Timeline",
+    "Contact Section · 27": "Tell us about your project",
+    "Contact Section · 28": "Send Project Details",
+    "Contact Section · 29": "Chat on WhatsApp",
+    "Contact Section · 30": "Sending your inquiry…",
+    "Contact Section · 31": "Ready When You Are",
+    "Contact Section · 32": "Start your project with Digital With Habib",
+    "Contact Section · 33": "We look forward to hearing about your vision and bringing it to life with craft and clarity.",
+    "Contact Section · 34": "Start a Project",
+    "Footer · 01": "We Create",
+    "Footer · 02": "Brands That",
+    "Footer · 03": "People Remember.",
+    "Footer · 04": "Ready to elevate your visual identity, website, or product? Let's discuss your next project.",
+    "Footer · 05": "Start a Project",
+    "Footer · 06": "Chat on WhatsApp",
+    "Footer · 08": "Branding • UI/UX • Web • Motion",
+    "Footer · 09": "Navigation",
+    "Footer · 10": "Services",
+    "Footer · 17": "Direct Inquiries",
+    "Footer · 18": "Chat on WhatsApp",
+    "Footer · 19": "Available worldwide for brand design, UI/UX systems, and digital web experiences.",
+    "Footer · 20": "Newsletter",
+    "Footer · 21": "Occasional design thoughts, case studies, and studio updates. No spam.",
+    "Footer · 22": "Thank you for subscribing!",
+    "Footer · 23": "© ",
+    "Footer · 24": " Digital With Habib • All rights reserved.",
+    "Footer · 25": "Crafted with precision",
+    "Footer · 26": "•",
+    "Footer · 27": "Built for real people",
+    "Footer · 28": "Owner sign in",
+    "Floating Whats App · 01": "Chat on WhatsApp",
+    "Case Study Modal · 01": "Back to All Work",
+    "Case Study Modal · 02": "•",
+    "Case Study Modal · 04": "Start a Project Like This",
+    "Case Study Modal · 05": "Client",
+    "Case Study Modal · 06": "Year",
+    "Case Study Modal · 07": "Impact",
+    "Case Study Modal · 10": "Presentation Visual ",
+    "Case Study Modal · 11": "View Additional Artifacts (",
+    "Case Study Modal · 12": " more)",
+    "Case Study Modal · 14": " • End of Project",
+    "Case Study Modal · 15": "Trusted by industry leaders, fast-growing tech giants & global brands.",
+    "Case Study Modal · 16": "Start a Project Like This",
+    "Case Study Modal · 17": "Back to All Work",
+    "Project Inquiry Modal · 01": "Start A Project With Digital With Habib",
+    "Project Inquiry Modal · 02": "Starting from $1,000 (Range: $1,000 – $5,000) • Direct response",
+    "Project Inquiry Modal · 03": "Inquiry Received!",
+    "Project Inquiry Modal · 04": "Thank you, ",
+    "Project Inquiry Modal · 05": ". Our senior creative team has received your project details and budget (",
+    "Project Inquiry Modal · 06": ") and will reply promptly.",
+    "Project Inquiry Modal · 07": "Chat on WhatsApp Directly",
+    "Project Inquiry Modal · 08": "Done",
+    "Project Inquiry Modal · 09": "1. What do you need help with?",
+    "Project Inquiry Modal · 10": "2. Project Investment (Starting from $1,000)",
+    "Project Inquiry Modal · 11": "Range: $1,000 – $5,000",
+    "Project Inquiry Modal · 12": "3. Target Timeline",
+    "Project Inquiry Modal · 13": "4. Contact Details",
+    "Project Inquiry Modal · 14": "Submit Project Details",
+    "Project Inquiry Modal · 15": "Send via WhatsApp",
+    "Project Inquiry Modal · 16": "Sending your inquiry…",
+    "Project Inquiry Modal · 17": "🔒 Starting rate: $1,000 (Range $1,000 – $5,000)",
+    "Project Inquiry Modal · 18": "Digital With Habib",
+    "Trusted Brands Motion · 01": "Creative partnerships. Lasting impact.",
+    "Trusted Brands Motion · 02": "Across industries. Around the world."
+  },
+  "revision": 89
+}
